@@ -14,7 +14,7 @@ Excellent at anticipating and assessing customer needs and delivering products a
 **Via** · [Demo](#) | [Repo](https://github.com/gabriellerodarte/via)  
 🧭 Trip and event planner that helps users organize travel itineraries and event details in one place  
 
-**POURfolio** · [Demo](#) | [Repo](https://github.com/gabriellerodarte/pourfolio)  
+**Pourfolio** · [Demo](#) | [Repo](https://github.com/gabriellerodarte/pourfolio)  
 🍸 Cocktail recipe app for creating, editing, and browsing custom drink recipes
   
 
