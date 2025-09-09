@@ -29,9 +29,13 @@ Excellent at anticipating and assessing customer needs and delivering products a
 ---
 
 ### 📲 Get in Touch  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielle-rodarte)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriellerodarte)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ms.grodarte@gmail.com) 
+
+✉️ `ms.grodarte@gmail.com`
 
 ---
+
 
 ### 💻 Technology Stack 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
