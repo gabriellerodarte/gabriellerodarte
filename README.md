@@ -11,7 +11,7 @@ Excellent at anticipating and assessing customer needs and delivering products a
 
 ### 🎨 Projects I’m Proud Of
 
-**Via.** · [Demo](#) | [Repo](https://github.com/gabriellerodarte/via)  
+**Via** · [Demo](#) | [Repo](https://github.com/gabriellerodarte/via)  
 🧭 Trip and event planner that helps users organize travel itineraries and event details in one place  
 
 **Pourfolio** · [Demo](#) | [Repo](https://github.com/gabriellerodarte/pourfolio)  
