@@ -22,7 +22,7 @@ Excellent at anticipating and assessing customer needs and delivering products a
 
 ### ✨ Fun Side
 - 💡 Efficiency-obsessed — always looking for faster, cleaner ways to solve problems.  
-- 🏃 Loves sports, running, fitness, and trip planning - an active life keeps me energized.
+- 🏃 Love sports, running, fitness, and trip planning - an active life keeps me energized.
 - 🍹 Cocktail enthusiast — experimenting with flavors and ideas in and out of the bar.  
 - 🌸 Creative roots in hospitality & floral design - where I learned to blend artistry with precision.
 
