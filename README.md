@@ -11,10 +11,10 @@ Excellent at anticipating and assessing customer needs and delivering products a
 
 ### 🎨 Projects I’m Proud Of
 
-**Via** · [Demo](#) | [Repo](https://github.com/gabriellerodarte/via)  
+**Via** · [Demo](https://www.loom.com/share/f1b7963df2ad4138a71260a755df1b81?sid=e5d56120-84b1-4114-ac39-9b97aed4884b) | [Repo](https://github.com/gabriellerodarte/via)  
 🧭 Trip and event planner that helps users organize travel itineraries and event details in one place  
 
-**Pourfolio** · [Demo](#) | [Repo](https://github.com/gabriellerodarte/pourfolio)  
+**Pourfolio** · [Demo](https://www.loom.com/share/b659475eb57447c3b314cc0c42f6ed44?sid=41c639b6-e9cb-4cfc-b2f8-6c1a0ae46c71) | [Repo](https://github.com/gabriellerodarte/pourfolio)  
 🍸 Cocktail recipe app for creating, editing, and browsing custom drink recipes
   
 
