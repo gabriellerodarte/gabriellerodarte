@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Gabrielle 👩‍💻
 ---
 
-Backend-focused **Software Engineer** with a background in **finance, hospitality, SaaS sales, and operations**. 
+Backend-focused full stack **Software Engineer** with a background in **finance, hospitality, SaaS sales, and operations**. 
 I thrive at the intersection of **people, process, and technology** — blending analytical thinking with creativity to deliver solutions that are both intuitive and impactful.  
 
 
